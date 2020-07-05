@@ -4,6 +4,7 @@ package programme;
 public class programmePrincipal {
 
 	/**
+	 * test
 	 * Programme principal, lance la vue du programme
 	 * 
 	 * @param args, inutilisé
