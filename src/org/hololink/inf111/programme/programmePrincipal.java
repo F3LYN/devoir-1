@@ -14,7 +14,7 @@ public class programmePrincipal {
     	// lance le view-controller (à compléter)
     	Thread t = new Thread(new vue.CadrePrincipal());
     	t.start();
-    	
+    	//test
     }
     
 }
